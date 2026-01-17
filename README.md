@@ -1,4 +1,4 @@
-🔥🚀 OMNITERM - FULL-STACK CODE EXECUTION 🚀🔥
+🔥🚀 ***OMNITERM - FULL-STACK CODE EXECUTION*** 🚀🔥
 
 Languages: 🐍 Python 3.12+ | 💻 C++17 | ⚡ JavaScript (Node.js)
 
